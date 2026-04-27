@@ -47,4 +47,4 @@ streamlit run app.py
 ## Live Demo
 
 Try the app here:
-https://your-link.streamlit.app](https://email-spam-detection-gwd2hpptmtm3gyg6quesrt.streamlit.app/
+https://email-spam-detection-gwd2hpptmtm3gyg6quesrt.streamlit.app/
