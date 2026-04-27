@@ -3,6 +3,11 @@
 ## Overview
 This project classifies messages as spam or not spam using Natural Language Processing and machine learning.
 
+## Live Demo
+
+Try the app here:
+https://email-spam-detection-gwd2hpptmtm3gyg6quesrt.streamlit.app/
+
 ## Dataset
 
 Download from:
@@ -44,7 +49,4 @@ python train.py
 python evaluate.py
 streamlit run app.py
 
-## Live Demo
 
-Try the app here:
-https://email-spam-detection-gwd2hpptmtm3gyg6quesrt.streamlit.app/
