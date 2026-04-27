@@ -4,9 +4,12 @@
 This project classifies messages as spam or not spam using Natural Language Processing and machine learning.
 
 ## Dataset
-The project uses a labeled SMS/email spam dataset with two classes:
-- Ham: legitimate message
-- Spam: unwanted promotional or malicious message
+
+Download from:
+https://www.kaggle.com/datasets/venky73/spam-mails-dataset
+
+Place it inside:
+data/spam_ham_dataset.csv
 
 ## Tech Stack
 - Python
