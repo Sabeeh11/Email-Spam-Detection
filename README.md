@@ -25,12 +25,13 @@ The project uses a labeled SMS/email spam dataset with two classes:
 6. Deploy with Streamlit
 
 ## Results
+
 | Metric | Score |
-|---|---|
-| Accuracy | Add your score |
-| Precision | Add your score |
-| Recall | Add your score |
-| F1-score | Add your score |
+|--------|------|
+| Accuracy | 0.9845 |
+| Precision (Spam) | 0.97 |
+| Recall (Spam) | 0.98 |
+| F1-score (Spam) | 0.97 |
 
 ## How to Run
 
